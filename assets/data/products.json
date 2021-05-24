@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://www.runningxpert.com/media/catalog/product/cache/1/image/575x/9df78eab33525d08d6e5fb8d27136e95/a/q/aq2731-001-phsrh001-1000.jpeg",
+  "brand": "Keep active and healthy with adidas.",
+  "price": 250,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Adidas Sport",
+  "description": "Giày thể thao adidas",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "https://www.runningxpert.com/media/catalog/product/cache/1/image/575x/9df78eab33525d08d6e5fb8d27136e95/a/q/aq2731-001-phsrh001-1000.jpeg",
+  "brand": " Perfect for running errands or miles.",
+  "price": 350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Nike Joyride",
+  "description": "Giày Nike sành điệu",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "https://i.pinimg.com/originals/6e/0d/fe/6e0dfe4c5789423f1f93c64b0e814744.jpg",
+  "brand": "NIKE WOMENS AIR MAX EXCEE SNEAKER - WHITE",
+  "price": 135.5,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Nike Flex",
+  "description": "Giày Nike thể thao",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://i.pinimg.com/originals/6e/0d/fe/6e0dfe4c5789423f1f93c64b0e814744.jpg",
+  "brand": "The cushioned insole and Air Max air bag technology in the outsole give this sneaker the perfect blend of style and comfort.",
+  "price": 490.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Nike Air 2017",
+  "description": "Giày Nike chính hãng, chất lượng cao.",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://www.runningxpert.com/media/catalog/product/cache/1/image/575x/9df78eab33525d08d6e5fb8d27136e95/a/q/aq2731-001-phsrh001-1000.jpeg",
+  "brand": "The cushioned insole and Air Max air bag technology in the outsole give this sneaker the perfect blend of style and comfort.",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Giày Sneacker",
+  "description": "Giày chính hãng.",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+}]

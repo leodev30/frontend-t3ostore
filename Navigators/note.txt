@@ -1,0 +1,2 @@
+yarn add react-native-gesture-handler react-native-reanimated react-native-screens react-naitve-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/native @react-navigation/bottom-tabs
